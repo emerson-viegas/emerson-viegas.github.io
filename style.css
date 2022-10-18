@@ -1,5 +1,6 @@
 body{
     background-color: #d6efff;
+    padding: 2%;
 }
 
 #nome{
@@ -13,6 +14,8 @@ body{
     font-family: 'Courier New', Courier, monospace;
     font-style: unset;
     text-align: center;
+    position: left;
+    margin-top: 150px;
 }
 
 .classe1{
@@ -24,8 +27,7 @@ body{
 }
 .part1 {
     position: absolute;
-    border: 1px black solid;
-    tex
+   
 }
 
 
@@ -40,4 +42,7 @@ body{
 ul {
     position: relative;
     margin-top: 500px;
+}
+#habi li:nth-child(odd) {
+    font-style: italic;
 }
