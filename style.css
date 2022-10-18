@@ -1,3 +1,7 @@
+body{
+    background-color: #d6efff;
+}
+
 #nome{
     font-family: cursive;
     /*background-color: aquamarine;*/
@@ -17,7 +21,18 @@
 .classe2{
     font-size: 30px;
 }
+.part1 {
+    position: absolute;
+    border: 1px black solid;
+}
 
-body{
-    background-color: #d6efff;
+
+
+#foto {
+    float: left;
+}
+
+ul {
+    position: relative;
+    margin-top: 500px;
 }
