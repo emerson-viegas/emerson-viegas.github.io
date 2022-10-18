@@ -1,0 +1,48 @@
+body{
+    background-color: #d6efff;
+    padding: 2%;
+}
+
+#nome{
+    font-family: cursive;
+    /*background-color: aquamarine;*/
+    text-align: center;
+    line-height: 200px;
+    font-size: 80px;
+}
+#descri{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: unset;
+    text-align: center;
+    position: left;
+    margin-top: 150px;
+}
+
+.classe1{
+    font-size: 50px;
+}
+
+.classe2{
+    font-size: 30px;
+}
+.part1 {
+    position: absolute;
+   
+}
+
+
+
+#foto {
+    float: left;
+    padding: 10px;
+    background-color: lightgreen;
+    
+}
+
+ul {
+    position: relative;
+    margin-top: 500px;
+}
+#habi li:nth-child(odd) {
+    font-style: italic;
+}
