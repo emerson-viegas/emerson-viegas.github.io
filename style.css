@@ -1,0 +1,23 @@
+#nome{
+    font-family: cursive;
+    /*background-color: aquamarine;*/
+    text-align: center;
+    line-height: 200px;
+}
+#descri{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: unset;
+    text-align: center;
+}
+
+.classe1{
+    font-size: 50px;
+}
+
+.classe2{
+    font-size: 30px;
+}
+
+body{
+    background-color: #d6efff;
+}
