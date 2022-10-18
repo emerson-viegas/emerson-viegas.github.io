@@ -14,8 +14,9 @@ body{
     font-family: 'Courier New', Courier, monospace;
     font-style: unset;
     text-align: center;
-    position: left;
+    position: 60%;
     margin-top: 150px;
+    
 }
 
 .classe1{
@@ -36,13 +37,14 @@ body{
     float: left;
     padding: 10px;
     background-color: lightgreen;
+    width: 300px;
     
 }
 
-ul {
+.ultima ul:nth-child(odd){
     position: relative;
     margin-top: 500px;
-}
-#habi li:nth-child(odd) {
+
     font-style: italic;
 }
+
