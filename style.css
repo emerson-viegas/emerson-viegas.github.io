@@ -14,7 +14,7 @@ body{
     font-family: 'Courier New', Courier, monospace;
     font-style: unset;
     text-align: center;
-    position: 60%;
+    position: relative;
     margin-top: 150px;
     
 }
